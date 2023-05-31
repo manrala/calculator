@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.manrala.calculator.CalculatorApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-05-31T19:52:14" hostname="client" time="0.865">
+  <properties/>
+  <testcase name="contextLoads()" classname="com.manrala.calculator.CalculatorApplicationTests" time="0.865"/>
+  <system-out><![CDATA[19:52:13.448 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.manrala.calculator.CalculatorApplicationTests]: CalculatorApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+19:52:13.532 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.manrala.calculator.CalculatorApplication for test class com.manrala.calculator.CalculatorApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.1.0)
+
+2023-05-31T19:52:13.843Z  INFO 16360 --- [    Test worker] c.m.c.CalculatorApplicationTests         : Starting CalculatorApplicationTests using Java 17.0.7 with PID 16360 (started by vagrant in /home/vagrant/devops/For_Devops/Manning/Jenkins/calculator)
+2023-05-31T19:52:13.845Z  INFO 16360 --- [    Test worker] c.m.c.CalculatorApplicationTests         : No active profile set, falling back to 1 default profile: "default"
+2023-05-31T19:52:14.379Z  INFO 16360 --- [    Test worker] c.m.c.CalculatorApplicationTests         : Started CalculatorApplicationTests in 0.74 seconds (process running for 2.137)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
